@@ -1,0 +1,65 @@
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojResolveAssemblyReference.cache
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.Cache
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\MT\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\mscorlib.dll
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\tr\mscorlib.resources.dll
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normidna.nlp
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfc.nlp
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfd.nlp
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfkc.nlp
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfkd.nlp
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.Cache
+F:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojResolveAssemblyReference.cache
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.Cache
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\normnfkd.nlp
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Fibonacci.resources
+C:\Users\MT\Documents\Visual Studio 2017\Projects\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Matris.resources
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojResolveAssemblyReference.cache
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Fibonacci.resources
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Matris.resources
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.Cache
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+D:\C#_Proje\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
